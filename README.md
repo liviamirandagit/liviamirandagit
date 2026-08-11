@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/6174c932-bd9b-4310-9a6c-3352a64a01a9" width="180" alt="Cyber Cat" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b33600,50:ff6600,100:ffaa00&height=200&section=header&text=SOFTWARE%20AND%20DATA%20ENGINEERING&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner"/>
 </p>
 
