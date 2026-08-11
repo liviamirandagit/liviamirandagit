@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc301fb7-41b8-408c-8c10-dbd738fe08db" width="160" alt="Cyber Cat" />
+  <img src="https://github.com/user-attachments/assets/96ec44c6-6c4c-4d76-8d5c-377acd5d3356" width="160" style="border-radius: 12px;" alt="Cyber Cat" />
 </p>
 
 <p align="center">
@@ -67,3 +67,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffaa00,50:ff6600,100:b33600&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </p>
+
+
