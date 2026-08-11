@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f56723f9-32e2-43d7-96c8-9cb27fc4ff61" width="140" height="140" style="border-radius: 50%; object-fit: cover;" alt="Cyber Cat" />
+  <img src="LINK_DA_SUA_NOVA_IMAGEM_AQUI" width="180" alt="Cyber Cat" />
 </p>
 
 <p align="center">
@@ -67,4 +67,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffaa00,50:ff6600,100:b33600&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </p>
-
