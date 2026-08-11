@@ -20,8 +20,8 @@
 ## > Sobre MIM
 
 > **Nome:** Lívia Costa  
-> **Curso:** Bacharelado em Engenharia de Software *(em andamento)*  
-> **Áreas de Atuação:** Agentes Orquestradores com IA, Arquitetura de Software e Engenharia de Dados  
+> **Curso:** Bacharelado em Engenharia de Software *(Previsão de Conclusão: Dezembro de 2028)*  
+> **Áreas de Atuação:** Desenvolvimento Backend, Engenharia de Software e Engenharia & Análise de Dados  
 > **Foco Atual:** Construção de ecossistemas distribuídos, pipelines de dados e soluções inteligentes  
 
 <hr />
