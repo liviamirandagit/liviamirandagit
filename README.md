@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc301fb7-41b8-408c-8c10-dbd738fe08db" width="140" height="140" alt="Cyber Cat" />
+  <img src="https://github.com/user-attachments/assets/fc301fb7-41b8-408c-8c10-dbd738fe08db" width="140" height="140" style="border-radius: 50%; object-fit: cover;" alt="Cyber Cat" />
 </p>
 
 <p align="center">
