@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vcenter=true&width=700&height=70&lines=INITIALIZING+SYSTEM...;WELCOME+TO+MY+PROFILE" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vcenter=true&width=700&height=70&lines=INITIALIZING+SYSTEM...;WELCOME+TO+MY+PROFILE;LIVIACOSTA.TECH" alt="Typing Animation" />
 </p>
 
 <p align="center">
