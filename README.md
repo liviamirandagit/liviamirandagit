@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="LINK_DA_SUA_NOVA_IMAGEM_AQUI" width="180" alt="Cyber Cat" />
+  <img src="https://github.com/user-attachments/assets/f56723f9-32e2-43d7-96c8-9cb27fc4ff61" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Gato Cibernético" />
 </p>
 
 <p align="center">
