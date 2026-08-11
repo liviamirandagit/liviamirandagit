@@ -1,5 +1,10 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vcenter=true&width=700&height=70&lines=INITIALIZING+SYSTEM...;WELCOME+TO+MY+PROFILE;LIVIA+COSTA" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f56723f9-32e2-43d7-96c8-9cb27fc4ff61" width="140" alt="Cyber Cat" />
 </p>
 
 <p align="center">
