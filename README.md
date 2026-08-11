@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0854,50:6b21a8,100:a855f7&height=200&section=header&text=NEURAL%20SYSTEM%20ONLINE&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0854,50:6b21a8,100:a855f7&height=200&section=header&text=SOFTWARE%20%26%20DATA%20ENGINEERING&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner"/>
   </a>
 </p>
 
@@ -30,6 +30,17 @@
 ### // SYSTEM OVERVIEW (SOBRE MIM)
 
 ```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.role = "Software Engineering Student & AI Developer"
+        self.location = "Brazil"
+        self.core_focus = ["AI Orchestrators", "Distributed Systems", "Data Analytics"]
+        
+    def get_status(self):
+        return "Building smart systems, optimizing data pipelines, and exploring AI agents."
+
+me = SoftwareEngineer()
+print(me.get_status())
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Livia Costa Silva"
