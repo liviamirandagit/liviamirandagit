@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0854,50:6b21a8,100:a855f7&height=200&section=header&text=SOFTWARE%20%26%20DATA%20ENGINEERING&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0854,50:6b21a8,100:a855f7&height=200&section=header&text=SOFTWARE%20AND%20DATA%20ENGINEERING&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- BADGES SOCIAIS -->
@@ -63,6 +63,3 @@ echo "[>] Continuous Software Engineering Research"
 echo "----------------------------------------"
 echo "[STATUS]: Executing background tasks with 100% efficiency."
 // FEATURED PROJECTS
-// SYSTEM TROPHIES
-// METRICS & TELEMETRY
-// CONTRIBUTION MATRIX (SNAKE GAME)
