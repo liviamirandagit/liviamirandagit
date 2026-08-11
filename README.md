@@ -1,9 +1,4 @@
-O problema que apareceu na imagem ocorre porque o GitHub bloqueou o link curto git.io na tag <a> e a imagem do divider da comunidade deu erro de carregamento (gerando o ícone quebrado). Além disso, havia uma duplicidade no bloco do código Python.
 
-Aqui está o código 100% limpo, corrigido, usando imagens nativas e estáveis para não quebrar.
-
-Markdown
-<!-- BANNER PRINCIPAL COM EFEITO DE SISTEMA -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vcenter=true&width=700&height=70&lines=INITIALIZING+SYSTEM...;WELCOME+TO+MY+DIGITAL+CORE;SOFTWARE+%26+DATA+ENGINEERING" alt="Typing Animation" />
 </p>
