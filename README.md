@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/6174c932-bd9b-4310-9a6c-3352a64a01a9&mask=circle&output=png" width="160" alt="Cyber Cat" />
+  <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/6174c932-bd9b-4310-9a6c-3352a64a01a9&mask=circle&output=png" width="210" alt="Cyber Cat" />
 </p>
 
 <p align="center">
